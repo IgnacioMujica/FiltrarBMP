@@ -3,5 +3,5 @@
 Escala de grises, nublar, inversion de color y detección de bordes.
 
 Cada funcion recibe la foto y sus dimensiones.
-Se usa un arreglo 2d para alterar los valores RGB de cada pixel utilizando la formula que aplique segun el caso (funcion).
-Se retorna null.
+Se usa un arreglo 2d para alterar los valores RGB de cada pixel utilizando la formula que aplique segun el caso.
+Retorna null.
